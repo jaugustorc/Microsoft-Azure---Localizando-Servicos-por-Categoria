@@ -1,6 +1,6 @@
 # Microsoft-Azure---Localizando-Servicos-por-Categoria
 Este projeto você verá na prática a aplicação dos conceitos de computação em nuvem.
-![image](https://github.com/user-attachments/assets/0971f578-e827-4ddf-b908-b6d4b4aabc91)
+![image](source/363823306-0971f578-e827-4ddf-b908-b6d4b4aabc91.png)
 
 Principais Serviços do Microsoft Azure
 
